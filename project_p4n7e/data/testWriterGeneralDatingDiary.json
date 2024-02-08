@@ -1,0 +1,21 @@
+{
+    "Owner Name": "My dating diary",
+    "People": [
+        {
+            "nationality": "Canadian",
+            "gender": "Female",
+            "name": "Cat",
+            "rating": 5,
+            "comment": "No comment yet",
+            "age": 30
+        },
+        {
+            "nationality": "Canadian",
+            "gender": "Male",
+            "name": "Raj",
+            "rating": 0,
+            "comment": "Handsome",
+            "age": 32
+        }
+    ]
+}
